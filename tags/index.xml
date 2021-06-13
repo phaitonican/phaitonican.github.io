@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on YannikCenk</title>
+    <title>Tags on ALIENS</title>
     <link>https://phaitonican.github.io/tags/</link>
-    <description>Recent content in Tags on YannikCenk</description>
+    <description>Recent content in Tags on ALIENS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://phaitonican.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Jun 2021 02:49:50 +0200</lastBuildDate><atom:link href="https://phaitonican.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nft</title>
+      <link>https://phaitonican.github.io/tags/nft/</link>
+      <pubDate>Mon, 07 Jun 2021 02:49:50 +0200</pubDate>
+      
+      <guid>https://phaitonican.github.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
